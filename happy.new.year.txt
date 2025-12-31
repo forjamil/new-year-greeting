@@ -2,7 +2,7 @@
 <html lang="ur">
 <head>
 <meta charset="UTF-8">
-<title>نیا سال مبارک ہو</title>
+<title>happy new year</title>
 <style>
 body {
     margin: 0;
@@ -145,4 +145,5 @@ animate();
 </script>
 
 </body>
+
 </html>
